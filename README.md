@@ -1,3 +1,9 @@
+> **TEST REPOSITORY**: This is a test repository for CAMARA release workflow validation.
+> Mirror of [camaraproject/ConsentManagement](https://github.com/camaraproject/ConsentManagement) (no releases, no APIs).
+> Do not use for production purposes.
+
+---
+
 <a href="https://github.com/camaraproject/ConsentManagement/commits/" title="Last Commit"><img src="https://img.shields.io/github/last-commit/camaraproject/ConsentManagement?style=plastic"></a>
 <a href="https://github.com/camaraproject/ConsentManagement/issues" title="Open Issues"><img src="https://img.shields.io/github/issues/camaraproject/ConsentManagement?style=plastic"></a>
 <a href="https://github.com/camaraproject/ConsentManagement/pulls" title="Open Pull Requests"><img src="https://img.shields.io/github/issues-pr/camaraproject/ConsentManagement?style=plastic"></a>
