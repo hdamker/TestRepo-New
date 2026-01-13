@@ -1,10 +1,10 @@
-# CAMARA Release Plan - TEST CASE R4: Missing Mandatory Field
-# This tests schema validation for required fields
+# CAMARA Release Plan - TEST CASE R4: Multiple Errors
+# Tests that all schema errors are collected (not just first)
 
 repository:
   release_track: meta-release
   meta_release: Fall26
-  # target_release_tag: MISSING - should cause validation error
+  # target_release_tag: MISSING - error 1: required field
   target_release_type: public-release
 
 dependencies:
@@ -13,5 +13,5 @@ dependencies:
 
 apis:
   - api_name: test-api
-    target_api_version: 1.0.0
-    target_api_status: public
+    target_api_version: 1.0.0-rc.1  # error 2: invalid pattern (no extensions)
+    target_api_status: beta  # error 3: invalid enum value
