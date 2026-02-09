@@ -2,7 +2,7 @@ repository:
   repository_name: TestRepo-New
   release_tag: r2.1
   release_type: pre-release-rc
-  release_date: null
+  release_date: '2026-02-09T23:05:52Z'
   src_commit_sha: 288f868af44d6b35cf4a21355f45c78c4c147a1d
 apis:
 - api_name: quality-on-demand
