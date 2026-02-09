@@ -29,6 +29,8 @@ Sandbox API Repository to describe, develop, document, and test the ConsentManag
 <!-- * Incubating stage since: {{incubation date}} --> 
 
 <!-- CAMARA:RELEASE-INFO:START -->
+<!-- The following section is automatically maintained by the CAMARA project-administration tooling: https://github.com/camaraproject/project-administration -->
+
 ## Release Information
 
 > [!NOTE]
@@ -41,6 +43,15 @@ Sandbox API Repository to describe, develop, document, and test the ConsentManag
 * The latest public release is always available here: https://github.com/camaraproject/TestRepo-New/releases/latest
 * Other releases of this repository are available in https://github.com/camaraproject/TestRepo-New/releases
 * For changes see [CHANGELOG.md](https://github.com/camaraproject/TestRepo-New/blob/main/CHANGELOG.md)
+
+### Upcoming Release Preview
+
+* Pre-release: [r2.1](https://github.com/camaraproject/TestRepo-New/releases/tag/r2.1) (release candidate)
+  * **quality-on-demand 1.0.0-rc.1**
+  [[YAML]](https://github.com/camaraproject/TestRepo-New/blob/r2.1/code/API_definitions/quality-on-demand.yaml)  [[ReDoc]](https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/camaraproject/TestRepo-New/r2.1/code/API_definitions/quality-on-demand.yaml&nocors)  [[Swagger]](https://camaraproject.github.io/swagger-ui/?url=https://raw.githubusercontent.com/camaraproject/TestRepo-New/r2.1/code/API_definitions/quality-on-demand.yaml)
+
+
+_The above section is automatically synchronized by CAMARA project-administration._
 <!-- CAMARA:RELEASE-INFO:END -->
 
 ## Contributing
