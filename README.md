@@ -32,12 +32,14 @@ Sandbox API Repository to describe, develop, document, and test the ConsentManag
 ## Release Information
 
 > [!NOTE]
-> This repository has only pre-release versions available yet. Pre-releases are for testing and may change before public release.
+> Please be aware that the project will have frequent updates to the main branch. There are no compatibility guarantees associated with code in any branch, including main, until a new release is created. For example, changes may be reverted before a release is created. **For best results, use the latest available release**.
 
-* **PREVIEW**: The latest pre-release is [r1.1](https://github.com/camaraproject/TestRepo-New/releases/tag/r1.1) (release candidate), with the following API versions:
-  * **quality-on-demand 0.1.0-rc.1**
-  [[YAML]](https://github.com/camaraproject/TestRepo-New/blob/r1.1/code/API_definitions/quality-on-demand.yaml)  [[ReDoc]](https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/camaraproject/TestRepo-New/r1.1/code/API_definitions/quality-on-demand.yaml&nocors)  [[Swagger]](https://camaraproject.github.io/swagger-ui/?url=https://raw.githubusercontent.com/camaraproject/TestRepo-New/r1.1/code/API_definitions/quality-on-demand.yaml)
+* **NEW**: The latest public release is [r1.2](https://github.com/hdamker/TestRepo-New/releases/tag/r1.2), with the following API versions:
+  * **quality-on-demand 0.1.0**
+  [[YAML]](https://github.com/hdamker/TestRepo-New/blob/r1.2/code/API_definitions/quality-on-demand.yaml)  [[ReDoc]](https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/hdamker/TestRepo-New/r1.2/code/API_definitions/quality-on-demand.yaml&nocors)  [[Swagger]](https://camaraproject.github.io/swagger-ui/?url=https://raw.githubusercontent.com/hdamker/TestRepo-New/r1.2/code/API_definitions/quality-on-demand.yaml)
 
+* The latest public release is always available here: https://github.com/camaraproject/TestRepo-New/releases/latest
+* Other releases of this repository are available in https://github.com/camaraproject/TestRepo-New/releases
 * For changes see [CHANGELOG.md](https://github.com/camaraproject/TestRepo-New/blob/main/CHANGELOG.md)
 <!-- CAMARA:RELEASE-INFO:END -->
 
