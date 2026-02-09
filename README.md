@@ -34,9 +34,9 @@ Sandbox API Repository to describe, develop, document, and test the ConsentManag
 > [!NOTE]
 > This repository has only pre-release versions available yet. Pre-releases are for testing and may change before public release.
 
-* **PREVIEW**: The latest pre-release is [r1.1](https://github.com/camaraproject/TestRepo-New/releases/tag/r1.1) (release candidate), with the following API versions:
-  * **quality-on-demand 0.1.0-rc.1**
-  [[YAML]](https://github.com/camaraproject/TestRepo-New/blob/r1.1/code/API_definitions/quality-on-demand.yaml)  [[ReDoc]](https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/camaraproject/TestRepo-New/r1.1/code/API_definitions/quality-on-demand.yaml&nocors)  [[Swagger]](https://camaraproject.github.io/swagger-ui/?url=https://raw.githubusercontent.com/camaraproject/TestRepo-New/r1.1/code/API_definitions/quality-on-demand.yaml)
+* **PREVIEW**: The latest pre-release is [r1.2](https://github.com/hdamker/TestRepo-New/releases/tag/r1.2) (release candidate), with the following API versions:
+  * **quality-on-demand 0.1.0-rc.2**
+  [[YAML]](https://github.com/hdamker/TestRepo-New/blob/r1.2/code/API_definitions/quality-on-demand.yaml)  [[ReDoc]](https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/hdamker/TestRepo-New/r1.2/code/API_definitions/quality-on-demand.yaml&nocors)  [[Swagger]](https://camaraproject.github.io/swagger-ui/?url=https://raw.githubusercontent.com/hdamker/TestRepo-New/r1.2/code/API_definitions/quality-on-demand.yaml)
 
 * For changes see [CHANGELOG.md](https://github.com/camaraproject/TestRepo-New/blob/main/CHANGELOG.md)
 <!-- CAMARA:RELEASE-INFO:END -->
