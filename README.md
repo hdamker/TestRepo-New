@@ -29,18 +29,29 @@ Sandbox API Repository to describe, develop, document, and test the ConsentManag
 <!-- * Incubating stage since: {{incubation date}} --> 
 
 <!-- CAMARA:RELEASE-INFO:START -->
+<!-- The following section is automatically maintained by the CAMARA project-administration tooling: https://github.com/camaraproject/project-administration -->
+
 ## Release Information
 
 > [!NOTE]
 > Please be aware that the project will have frequent updates to the main branch. There are no compatibility guarantees associated with code in any branch, including main, until a new release is created. For example, changes may be reverted before a release is created. **For best results, use the latest available release**.
 
-* **NEW**: The latest public release is [r2.2](https://github.com/camaraproject/TestRepo-New/releases/tag/r2.2), with the following API versions:
+* The latest public release is [r2.2](https://github.com/camaraproject/TestRepo-New/releases/tag/r2.2), with the following API versions:
   * **quality-on-demand 1.0.0**
   [[YAML]](https://github.com/camaraproject/TestRepo-New/blob/r2.2/code/API_definitions/quality-on-demand.yaml)  [[ReDoc]](https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/camaraproject/TestRepo-New/r2.2/code/API_definitions/quality-on-demand.yaml&nocors)  [[Swagger]](https://camaraproject.github.io/swagger-ui/?url=https://raw.githubusercontent.com/camaraproject/TestRepo-New/r2.2/code/API_definitions/quality-on-demand.yaml)
 
 * The latest public release is always available here: https://github.com/camaraproject/TestRepo-New/releases/latest
 * Other releases of this repository are available in https://github.com/camaraproject/TestRepo-New/releases
 * For changes see [CHANGELOG.md](https://github.com/camaraproject/TestRepo-New/blob/main/CHANGELOG.md)
+
+### Upcoming Release Preview
+
+* Pre-release: [r3.1](https://github.com/camaraproject/TestRepo-New/releases/tag/r3.1) (release candidate)
+  * **quality-on-demand 1.1.0-rc.2**
+  [[YAML]](https://github.com/camaraproject/TestRepo-New/blob/r3.1/code/API_definitions/quality-on-demand.yaml)  [[ReDoc]](https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/camaraproject/TestRepo-New/r3.1/code/API_definitions/quality-on-demand.yaml&nocors)  [[Swagger]](https://camaraproject.github.io/swagger-ui/?url=https://raw.githubusercontent.com/camaraproject/TestRepo-New/r3.1/code/API_definitions/quality-on-demand.yaml)
+
+
+_The above section is automatically synchronized by CAMARA project-administration._
 <!-- CAMARA:RELEASE-INFO:END -->
 
 ## Contributing
