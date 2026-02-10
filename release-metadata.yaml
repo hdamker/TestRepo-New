@@ -1,0 +1,13 @@
+repository:
+  repository_name: TestRepo-New
+  release_tag: r3.2
+  release_type: pre-release-rc
+  release_date: null
+  src_commit_sha: fc1d30462b01da23bd752ac41bf2a6b8aaf48369
+apis:
+- api_name: quality-on-demand
+  api_version: 1.1.0-rc.3
+  api_title: Quality-On-Demand
+dependencies:
+  commonalities_release: r3.5
+  identity_consent_management_release: r3.3
